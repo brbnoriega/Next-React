@@ -1,8 +1,5 @@
 import Head from "next/head";
-
 import styles from "../styles/Home.module.css";
-
-
 
 export default function Home() {
   return (
@@ -10,7 +7,6 @@ export default function Home() {
       <Head>
         <title>Home - Barbara</title>
         <meta name="description" content="Home app" />
-
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>

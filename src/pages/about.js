@@ -1,14 +1,11 @@
 import Head from "next/head";
-
 import styles from "../styles/Home.module.css";
-
-
 
 export default function AboutPage() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Home - Barbara</title>
+        <title>About - Barbara</title>
         <meta name="description" content="About page" />
 
         <link rel="icon" href="/favicon.ico" />

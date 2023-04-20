@@ -26,7 +26,7 @@ export const Navbar = () => {
         <ActiveLink key={href} text={text} href={href} />
       ))}
       {/* <ActiveLink text="Home" href="/" />
-      <ActiveLink text="About" href="/about" />
+      <ActiveLink text="About" href="/about" /> 
       <ActiveLink text="Contact" href="/contact" />
       <ActiveLink text="Pricing" href="/pricing" /> */}
     </nav>

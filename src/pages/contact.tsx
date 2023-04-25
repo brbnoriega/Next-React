@@ -1,5 +1,5 @@
 import Link from "next/link";
-import {MainLayout} from "../../components/layouts/mainLayout";
+import {MainLayout} from "../../components/layouts/MainLayout";
 
 export default function AboutPage() {
   return (
